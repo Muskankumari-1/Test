@@ -135,4 +135,4 @@ It provides a holistic view of operational performance and enables data-driven d
 
 ## Dashboard Snapshots
 
-![Dashboard screenshot](images/dashboard.png)
+![Dashboard screenshot]((https://github.com/user-attachments/assets/c935438d-9fd5-471a-b2f4-b547246ab26e)
